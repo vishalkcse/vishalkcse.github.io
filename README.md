@@ -1,74 +1,64 @@
-# Resume Website – Vishal Kumar
+# 🚀 Elite Full-Stack Portfolio – Vishal Kumar
 
-This is a personal resume website created as part of **Assignment No. 1** using  
-**HTML, CSS, and JavaScript**, and hosted on **GitHub Pages (github.io)**.
+This is a production-grade personal portfolio website showcasing my expertise in **Full-Stack Development (Java/Spring Boot & MERN)**, **Cloud Infrastructure**, and **AI Integration**.
 
 ---
 
-## 👨‍🎓 Student Details
+## 👨‍🎓 Student Profile
 
 - **Name:** Vishal Kumar  
-- **Course:** B.Tech (Computer Science & Engineering)  
-- **Semester:** 6th (3rd Year)  
+- **Major:** B.Tech in Computer Science & Engineering  
+- **Batch:** 2023–2027  
 - **Institute:** Walchand Institute of Technology, Solapur  
+- **Academic Standing:** 9.52 CGPA  
 
 ---
 
-## 🎯 Objective
+## 🎯 Professional Objective
 
-To secure a Software Developer role where I can apply my skills in Java,
-Data Structures, and Web Development to build scalable applications,
-gain industry experience, and contribute to organizational growth.
-
+Highly motivated Full-Stack Developer specialized in building scalable, AI-integrated cloud applications. I bridge the gap between complex backend logic (Spring Boot/MySQL) and polished frontend experiences (React/Vite). Seeking a Software Development Internship to solve real-world problems through innovative engineering.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack & Core Competencies
 
-- **HTML** – Structure of the resume  
-- **CSS** – Styling and layout  
-- **JavaScript** – Interactive feature (Dark Mode toggle)  
-- **GitHub Pages** – Hosting the website  
-
----
-
-## 📁 Project Structure
-vishalkcse.github.io/
-│
-├── index.html
-├── style.css
-└── javascript.js
-
-## ✨ Features
-
-- Clean and professional resume layout  
-- Responsive design  
-- Dark mode toggle using JavaScript  
-- Hosted live using GitHub Pages  
+- **Backend:** Spring Boot, Node.js, Express.js, JSP/Servlets.  
+- **Frontend:** React.js, Vite, Bootstrap 5, Tailwind CSS.  
+- **Databases:** MySQL (Clever Cloud), MongoDB (NoSQL).  
+- **AI & Cloud:** Google Gemini AI API, Render, Cloudinary.  
+- **Integrations:** Razorpay (Payments), JWT & OAuth (Security), OpenPDF (Reporting).  
 
 ---
 
-## 🌐 Live Website
+## 📁 Projects Showcased
 
-👉 https://vishalkcse.github.io
+### 1. **VK Academy – Education CRM (Spring Boot Full-Stack)**
+- **Features:** AI Chat Assistant (Gemini), Razorpay Payments, Automated PDF Invoicing.
+- **Cloud:** Deployed on Render with Clever Cloud & Cloudinary.
 
----
+### 2. **Weather Now – AI-Powered Dashboard (React)**
+- **Features:** Voice Accessibility (Hindi/English), Real-time geocoding, 7-day safety insights.
+- **Visuals:** Interactive Leaflet.js terrain maps.
 
-## 📌 Assignment Information
-
-- **Assignment No.:** 1  
-- **Submitted To:** Department of Computer Science & Engineering  
-- **Purpose:** To demonstrate basic web development skills using  
-  HTML, CSS, JavaScript, and GitHub hosting.
-
----
-
-## ✅ Status
-
-✔ Assignment completed successfully  
-✔ Website deployed and accessible  
+### 3. **Dwellix – Real Estate Platform (MERN Stack)**
+- **Features:** RESTful API, JWT Auth, FileReader API for image processing.
+- **Performance:** Optimized client-side filtering and MongoDB data modeling.
 
 ---
 
-### Thank you!
+## ✨ Website Features
 
+- **Responsive Design:** Optimized for Desktop, Tablet, and Mobile devices.
+- **Dynamic Theme:** JavaScript-powered **Dark Mode** toggle for enhanced accessibility.
+- **SEO Optimized:** Structured for better visibility and indexing.
+- **Live Deployment:** Hosted on **GitHub Pages** with continuous integration.
+
+---
+
+## 🌐 Live Portfolio
+
+👉 [**https://vishalkcse.github.io**](https://vishalkcse.github.io)
+
+
+### **Connect with Me**
+🔗 [**LinkedIn**](https://linkedin.com/in/vishal-kumar-152451358) | 💻 [**GitHub**](https://github.com/vishalkcse) | 🧠 [**LeetCode**](https://leetcode.com/u/Vishal_K_CSE/)
