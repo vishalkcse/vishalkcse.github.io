@@ -1,12 +1,4 @@
-# 🚀 Elite Full-Stack Portfolio – Vishal Kumar
-
-This is a production-grade personal portfolio website showcasing my expertise in **Full-Stack Development (Java/Spring Boot & MERN)**, **Cloud Infrastructure**, and **AI Integration**.
-
----
-
-## 👨‍🎓 Student Profile
-
-- **Name:** Vishal Kumar  
+  **Name:** Vishal Kumar  
 - **Major:** B.Tech in Computer Science & Engineering  
 - **Batch:** 2023–2027  
 - **Institute:** Walchand Institute of Technology, Solapur  
